@@ -1,0 +1,8 @@
+Andrew	ablochha@uwo.ca	1
+Bryan	bsarlo@uwo.ca	2
+Cathy	cmott@uwo.ca	3
+Doug	dstar@uwo.ca	4
+Evan	elipp@uwo.ca	5
+Fred	fodds@uwo.ca	6
+George	gbrown@uwo.ca	7
+Henry	hsmith@uwo.ca	8
