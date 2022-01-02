@@ -1,0 +1,2 @@
+javac uandf.java BinaryImage.java
+java asn2
